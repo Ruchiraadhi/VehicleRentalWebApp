@@ -1,4 +1,4 @@
-package com.vehicle.rental.vehiclerentalwebapp;
+package com.example.vehiclerentwebapp;
 
 public class VehicleNode {
     Vehicle vehicle;

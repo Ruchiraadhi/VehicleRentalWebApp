@@ -1,4 +1,4 @@
-package com.vehicle.rental.vehiclerentalwebapp.admin;
+package com.example.vehiclerentwebapp.admin;
 
 import com.example.vehiclerentwebapp.Notification;
 import jakarta.servlet.ServletException;

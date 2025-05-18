@@ -1,4 +1,4 @@
-package com.vehicle.rental.vehiclerentalwebapp;
+package com.example.vehiclerentwebapp;
 
 import java.util.Base64;
 import java.nio.charset.StandardCharsets;

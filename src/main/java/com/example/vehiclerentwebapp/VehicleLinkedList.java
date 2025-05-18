@@ -1,9 +1,8 @@
-package com.vehicle.rental.vehiclerentalwebapp;
+package com.example.vehiclerentwebapp;
 
 import jakarta.servlet.ServletContext;
 
 import java.io.*;
-import java.util.UUID;
 import java.util.logging.Logger;
 
 public class VehicleLinkedList {

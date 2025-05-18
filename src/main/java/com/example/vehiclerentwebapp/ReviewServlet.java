@@ -1,4 +1,4 @@
-package com.vehicle.rental.vehiclerentalwebapp;
+package com.example.vehiclerentwebapp;
 
 import jakarta.servlet.ServletException;
 import jakarta.servlet.annotation.WebServlet;
